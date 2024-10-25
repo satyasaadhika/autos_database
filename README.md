@@ -17,5 +17,6 @@
    cd autos-database
 ```
 ### Set Up the Database:
- - Create a new MySQL database autos.
+ - Create a new MySQL database autosdb.
+   
   
