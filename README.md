@@ -15,6 +15,7 @@
    ```bash
    git clone <repository-url>
    cd autos-database
-
-
+```
+### Set Up the Database:
+ -Create a new MySQL database autos.
   
